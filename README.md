@@ -4,7 +4,7 @@ GOJSON is an advanced version of JSON data tranfer format. It allows to use Gola
 
 ### Basic exmaple of gojson
 
-```json
+```
 {
     "name": "Joe" `"max-length": 4`,
     "sename": "Doe",
